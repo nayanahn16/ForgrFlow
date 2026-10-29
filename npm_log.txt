@@ -1,0 +1,9 @@
+npm verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+npm info using npm@11.12.1
+npm info using node@v24.15.0
+npm verbose title npm install
+npm verbose argv "install" "--no-audit" "--loglevel" "verbose"
+npm verbose logfile logs-max:10 dir:C:\Users\NAYANA H N\AppData\Local\npm-cache\_logs\2026-10-28T18_15_31_836Z-
+npm verbose logfile C:\Users\NAYANA H N\AppData\Local\npm-cache\_logs\2026-10-28T18_15_31_836Z-debug-0.log
+npm http fetch GET https://registry.npmjs.org/clsx attempt 1 failed with ENOTFOUND
+npm http fetch GET https://registry.npmjs.org/clsx attempt 2 failed with ENOTFOUND
